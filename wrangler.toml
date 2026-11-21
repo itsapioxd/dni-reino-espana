@@ -1,0 +1,9 @@
+
+name = "dni-reino-espana"
+main = "src/index.js"
+compatibility_date = "2026-11-21"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "dni-reino-espana"
+database_id = "c2f6274e-930e-4f1f-b4a1-547904043e45"
