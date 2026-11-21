@@ -1,9 +1,0 @@
-
-name = "dni-reino-espana"
-main = "src/index.js"
-compatibility_date = "2026-11-21"
-
-[[d1_databases]]
-binding = "DB"
-database_name = "dni-reino-espana"
-database_id = "PENDIENTE"
